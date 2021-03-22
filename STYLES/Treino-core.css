@@ -1,0 +1,198 @@
+@media (min-width: 10px){
+    main .titulo-pagina{
+        margin-left: 0.8rem;
+    }
+    main .Titulo-treino{
+        border-top: solid 4px rgb(212, 21, 21);
+        padding-top: 1rem;
+        margin-left: 0.1rem;
+        margin-right: 1rem;
+    }
+    div{
+        display: block;
+        align-items: center;
+        justify-content: center;
+        width: 35rem;
+        
+    }
+    .warning img{
+        margin-left: 13rem;
+        width: 5rem;
+    }
+
+    .warning h4{
+        margin-left: 2rem;
+        margin-right: 3rem;
+        width: 25rem;
+    }
+
+    main .button-galeria{
+        width: 24rem;
+        height: 3.5rem;
+        border-radius: 0.5rem;
+        margin-top: 0rem;
+        margin-left: 2.5rem;
+        margin-bottom: 0.5;
+        background-color: rgb(212, 21, 21);
+        color: white;
+        transition: 0.5s;
+    }
+    main .button-galeria:hover{
+        background-color: black;
+        transform: translateY(-4px);
+        border-bottom: solid 4px rgb(212, 21, 21);
+    }
+
+    main .button-galeria-final{
+        width: 24rem;
+        height: 3.5rem;
+        border-radius: 0.5rem;
+        margin-top: 0rem;
+        margin-left: 2.5rem;
+        margin-bottom: 1rem;
+        background-color: rgb(212, 21, 21);
+        color: white;
+        transition: 0.5s;
+    }
+    main .button-galeria-final:hover{
+        background-color: black;
+        transform: translateY(-4px);
+        border-bottom: solid 4px rgb(212, 21, 21);
+    }
+
+
+    #Treino10 caption{
+        width: 23.5rem;
+        margin-left: 1.2rem;
+        padding: 1.5rem;
+        margin-top: 2rem;
+        background-color: rgb(212, 21, 21);
+        color: white;
+    }
+
+    #Treino10{
+        width: 28.8rem;
+        padding: 1rem;
+        padding-top: 1rem;
+    
+        
+    }
+
+    td{
+        background-color:black;
+        height: 1.5rem;
+        width: 50rem;
+        padding: 0.8rem;
+        align-items: center;
+        justify-content: center;
+    }
+    tr{
+        color: white;
+        margin-right: 0.5rem;
+        width: 10rem;
+    }
+    main{
+        background-color: white;
+    }
+    .titulo-pagina{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-left: 2rem;
+    }
+    .titulo-pagina img{
+        margin-right: 35.5rem;
+    }
+
+}
+@media (min-width: 700px){
+    main .Titulo-treino{
+        border-top: solid 4px rgb(212, 21, 21);
+        padding-top: 1rem;
+
+    }
+    div{
+        display: block;
+        width: 48rem;
+        margin-left: 2rem;
+    }
+    .warning img{
+        height: 4rem;
+        margin-left: 20rem;
+        margin-right: 3.0rem;
+    }
+    .warning h4{
+        margin-left: 7.2rem;
+        margin-right: 2rem;
+        width: 70%;
+    }
+    main .button-galeria{
+        width: 30rem;
+        height: 3.5rem;
+        border-radius: 0.5rem;
+        margin-top: 0.5rem;
+        margin-left: 10.5rem;
+        background-color: rgb(212, 21, 21);
+        color: white;
+        transition: 0.5s;
+    }
+    main .button-galeria:hover{
+        background-color: black;
+        transform: translateY(-4px);
+        border-bottom: solid 4px rgb(212, 21, 21);
+    }
+
+    main .button-galeria-final{
+        width: 30rem;
+        height: 3.5rem;
+        border-radius: 0.5rem;
+        margin-top: 0.5rem;
+        margin-left: 11rem;
+        background-color: rgb(212, 21, 21);
+        color: white;
+        transition: 0.5s;
+    }
+    main .button-galeria-final:hover{
+        background-color: black;
+        transform: translateY(-4px);
+        border-bottom: solid 4px rgb(212, 21, 21);
+    }
+
+    #Treino10 caption{
+        width: 35.9rem;
+        margin-left: 2rem;
+        padding: 1.5rem;
+        margin-top: 2rem;
+        background-color: rgb(212, 21, 21);
+        color: white;
+    }
+
+    #Treino10{
+        margin: solid 4px rgb(212, 21, 21);
+        width: 43rem;
+        padding: 2rem;
+        padding-top: 1rem;
+        margin-left: 4rem;
+        
+    }
+
+    td{
+        background-color:black;
+        height: 1.5rem;
+        width: 60rem;
+        padding: 0.8rem;
+        align-items: center;
+        justify-content: center;
+    }
+    tr{
+        color: white;
+        margin-right: 0.5rem;
+    }
+    main{
+        background-color: white;
+    }
+    .titulo-pagina{
+        margin-left: 2rem;
+    }
+
+}
